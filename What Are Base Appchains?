@@ -1,0 +1,4 @@
+Base Appchains are application-specific Layer 3 rollups built on Base, an Ethereum L2, that provide dedicated blockspace for individual applications. Unlike shared blockspace on Base Mainnet, where apps compete for network resources, Appchains offer a dedicated "express lane" for transactions, ensuring predictable performance and scalability. These L3 chains roll up to Base, which settles on Ethereum, combining dedicated infrastructure with Ethereum’s robust security guarantees.
+
+Designed for mature projects with high transaction volumes, Base Appchains address challenges like network congestion, variable gas costs, and performance bottlenecks. By leveraging the Coinbase Developer Platform (CDP) and the OP Enclave framework, Appchains deliver enterprise-grade infrastructure with one-click deployment, making scaling accessible and efficient.
+
