@@ -1,2 +1,4 @@
 # Scaling-the-Future-Building-with-Base-Appchains
 Scaling the Future: Building with Base Appchains
+Base, an Ethereum Layer 2 (L2) platform incubated by Coinbase, is revolutionizing how developers build and scale onchain applications. With its mission to bring the next billion users onchain, Base offers a secure, low-cost, and builder-friendly environment. A key component of this ecosystem is Base Appchains, a powerful Layer 3 (L3) scaling solution designed for high-traffic applications. Accessible at https://www.base.org/build/appchains, Base Appchains empower developers to deploy dedicated, high-performance blockchains while maintaining seamless integration with the Base ecosystem. This article explores the features, benefits, and use cases of Base Appchains, highlighting why they’re a game-changer for onchain innovation.
+
