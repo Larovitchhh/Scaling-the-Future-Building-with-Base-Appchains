@@ -1,0 +1,10 @@
+Base Appchains are currently in beta with a waitlist for early access. Here’s how to get started:  Join the Beta Waitlist: Apply via the form on the Coinbase Developer Platform. Priority is given to mature projects with clear scaling needs.  
+
+Technical Consultation: The Base team reviews your application and designs an optimal configuration based on your transaction patterns and requirements.  
+
+Development and Testing: Access testnet features (starting at $1/month) to validate your architecture, including bridging, custom gas tokens, and permissions.  
+
+Mainnet Launch: Deploy to production with full enterprise support, including monitoring and maintenance. A self-serve, one-click deployment option is coming soon.  
+
+For technical details, explore the Base Documentation or the Base Engineering Blog. Developers can also use OnchainKit’s AppchainBridge component to enable seamless asset bridging between Base Mainnet and their Appchain.
+
