@@ -1,0 +1,22 @@
+Base Appchains are designed for mature projects with significant transaction volumes or specific performance needs. They’re ideal for:  High-Transaction Apps: Projects generating thousands of daily transactions, such as gaming platforms or DeFi protocols, where network congestion impacts performance.  
+
+Gas-Intensive Apps: Teams spending heavily on gas sponsorship through tools like Paymaster.  
+
+Performance-Critical Apps: Applications where variable transaction times degrade user experience.  
+
+Customized Needs: Projects requiring custom gas tokens, permissions, or governance not available on shared chains.  
+
+Predictable Cost Models: Businesses seeking fixed operational costs for better budgeting.  
+
+Current use cases span multiple sectors:  Gaming: Blocklords, Super Champs, and Metacade leverage Appchains for millions of micro-transactions, ensuring smooth gameplay.  
+
+DeFi: High-frequency trading platforms benefit from predictable performance.  
+
+Enterprise: Solutions like ERP and privacy-focused apps, such as Horizen, use Appchains for scalability and programmability.  
+
+Creative: Decentralized Pictures uses Appchains to distribute onchain cinematic art with high throughput.  
+
+DePin: Projects like Proof 8 and MVL deliver real-world services with reliable performance.  
+
+For smaller or early-stage projects, Base Mainnet is recommended to establish product-market fit before transitioning to an Appchain.
+
